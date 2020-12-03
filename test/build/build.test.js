@@ -27,7 +27,10 @@ const ALREADY_TESTED = [
   'config-out-flag',
   'config-treeshake',
   'custom-modules-dir',
+  'entrypoint-ids',
   'html-environment-variables',
+  'package-tippy-js',
+  'preload-css',
 ];
 
 /** format diffs to be meaningful */
